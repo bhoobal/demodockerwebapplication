@@ -5,7 +5,7 @@ EXPOSE 80
 #FROM microsoft/aspnetcore-build:2.0 AS build
 FROM microsoft/dotnet:2.1-sdk AS build
 WORKDIR /src
-COPY DemoDockerWebApplication.csproj DemoDockerWebApplication/
+COPY DemoDockerWebApplication.csproj .
 RUN dotnet restore DemoDockerWebApplication.csproj
 COPY . .
 WORKDIR /src/DemoDockerWebApplication
