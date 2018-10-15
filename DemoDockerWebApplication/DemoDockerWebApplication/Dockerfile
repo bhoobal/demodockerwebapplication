@@ -9,10 +9,10 @@ COPY DemoDockerWebApplication.csproj DemoDockerWebApplication/
 RUN dotnet restore DemoDockerWebApplication.csproj
 COPY . .
 WORKDIR /src/DemoDockerWebApplication
-RUN dotnet build DemoDockerWebApplication.csproj -c Release -o /app
+RUN dotnet build .\src\DemoDockerWebApplication.csproj -c Release -o /app
 
 FROM build AS publish
-RUN dotnet publish DemoDockerWebApplication.csproj -c Release -o /app
+RUN dotnet publish .src\DemoDockerWebApplication.csproj -c Release -o /app
 
 FROM microsoft/dotnet:2.1-aspnetcore-runtime AS runtime
 WORKDIR /app
