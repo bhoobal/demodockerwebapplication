@@ -1,0 +1,11 @@
+C:\Docker-k8sDemo\DemoDockerWebApplication\DemoDockerWebApplication\bin\Debug\netcoreapp2.0\DemoDockerWebApplication.deps.json
+C:\Docker-k8sDemo\DemoDockerWebApplication\DemoDockerWebApplication\bin\Debug\netcoreapp2.0\DemoDockerWebApplication.runtimeconfig.json
+C:\Docker-k8sDemo\DemoDockerWebApplication\DemoDockerWebApplication\bin\Debug\netcoreapp2.0\DemoDockerWebApplication.runtimeconfig.dev.json
+C:\Docker-k8sDemo\DemoDockerWebApplication\DemoDockerWebApplication\bin\Debug\netcoreapp2.0\DemoDockerWebApplication.dll
+C:\Docker-k8sDemo\DemoDockerWebApplication\DemoDockerWebApplication\bin\Debug\netcoreapp2.0\DemoDockerWebApplication.pdb
+C:\Docker-k8sDemo\DemoDockerWebApplication\DemoDockerWebApplication\obj\Debug\netcoreapp2.0\DemoDockerWebApplication.csprojAssemblyReference.cache
+C:\Docker-k8sDemo\DemoDockerWebApplication\DemoDockerWebApplication\obj\Debug\netcoreapp2.0\DemoDockerWebApplication.csproj.CoreCompileInputs.cache
+C:\Docker-k8sDemo\DemoDockerWebApplication\DemoDockerWebApplication\obj\Debug\netcoreapp2.0\DemoDockerWebApplication.AssemblyInfoInputs.cache
+C:\Docker-k8sDemo\DemoDockerWebApplication\DemoDockerWebApplication\obj\Debug\netcoreapp2.0\DemoDockerWebApplication.AssemblyInfo.cs
+C:\Docker-k8sDemo\DemoDockerWebApplication\DemoDockerWebApplication\obj\Debug\netcoreapp2.0\DemoDockerWebApplication.dll
+C:\Docker-k8sDemo\DemoDockerWebApplication\DemoDockerWebApplication\obj\Debug\netcoreapp2.0\DemoDockerWebApplication.pdb

@@ -1,0 +1,1 @@
+C:\Docker-k8sDemo\DemoDockerWebApplication\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
